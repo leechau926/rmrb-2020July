@@ -1,0 +1,2 @@
+50 6 * * * python3 /root/rmrb/rmrb.py
+0 7 * * * bash ~/rmrb/rmrbrmrb.sh
